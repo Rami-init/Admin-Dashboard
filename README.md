@@ -13,9 +13,10 @@
 ## `Tools`
 
 
-| ----------------------- |  --------------------------|
-| `html5`                 |  `javascript`              |
-| `css3`                  |  `fontawsome`              |
+- `html5`
+- `javascript`
+- `css3`
+- `fontawsome`
 
 ## `Useage`
 
